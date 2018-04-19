@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/tim.ico</file>
+        <file>resources/images/qq.png</file>
+        <file>resources/images/qq-pink.png</file>
+        <file>resources/images/logo.jpg</file>
+        <file>resources/images/cover.PNG</file>
+        <file>resources/images/addaccount.PNG</file>
+        <file>resources/images/qrcodelogin.PNG</file>
+        <file>resources/fonts/fontawesome-webfont.ttf</file>
+        <file>resources/fonts/iconfont.ttf</file>
+        <file>qml/main.qml</file>
+        <file>qml/business/AccountSelector.qml</file>
+        <file>qml/business/LoginAvatar.qml</file>
+        <file>qml/business/LoginButton.qml</file>
+        <file>qml/business/LoginStatusPopup.qml</file>
+        <file>qml/business/NilButton.qml</file>
+        <file>qml/business/PasswordInput.qml</file>
+        <file>qml/business/PasswordRetakeLinkText.qml</file>
+        <file>qml/business/RegisterLinkText.qml</file>
+        <file>qml/business/TickRadioButton.qml</file>
+        <file>qml/common/Avatar.qml</file>
+        <file>qml/common/BaseShadowWindow.qml</file>
+        <file>qml/common/LinkText.qml</file>
+        <file>qml/common/Movable.qml</file>
+        <file>qml/frames/LoginFrame.qml</file>
+        <file>qml/pages/LoginPage.qml</file>
+        <file>qml/pages/ProxyPage.qml</file>
+        <file>qml/pages/LoginQRCodePage.qml</file>
+        <file>resources/images/header.png</file>
+        <file>qml/common/Button.qml</file>
+        <file>qml/common/ToolTip.qml</file>
+    </qresource>
+</RCC>
